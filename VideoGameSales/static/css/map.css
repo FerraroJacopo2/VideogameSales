@@ -1,0 +1,68 @@
+/*roba de slider*/
+.wrapper {
+  width: 95%;
+  margin: auto;
+}
+
+.wrapper > div {
+  margin: 5px 0;
+}
+
+#slider8 {
+  height: 250px;
+}
+
+#slider9 {
+  height: 250px;
+}
+
+/* roba della lista dei videogiochi a destra*/
+.legendd {
+    float: right;
+}
+
+/*bordo della mappa*/
+.stroke {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1px;
+}
+
+/* sfondo della mappa*/
+.fill {
+  fill: #fff;
+}
+
+/* reticolo della mappa*/
+.graticule {
+  fill: none;
+  stroke: #777;
+  stroke-width: .5px;
+  stroke-opacity: .5;
+}
+
+.legend {
+    height: 10px;
+    color: #CCC;
+    text-align: center;
+}
+
+.d3-tip {
+  line-height: 1;
+  padding: 12px;
+  position: absolute;
+  background: rgba(43,43,43, 0.8);
+  color: #fff;
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+.d3-tip-pca {
+  line-height: 1;
+  padding: 12px;
+  position: absolute;
+  background: rgba(43,43,43, 0.8);
+  color: #fff;
+  border-radius: 2px;
+  pointer-events: none;
+}

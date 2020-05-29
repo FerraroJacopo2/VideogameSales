@@ -1,0 +1,52 @@
+.mdl-layout__header {
+    fill: #fff;
+    background-color: #fff;
+}
+.logo-image {
+    height: 35px;
+    top: 3px;
+}
+.legendd{
+    width: 100%;
+}
+
+.tabellagiochi{
+    width: 100%;
+    position: inherit;
+}
+
+.similarity_table {
+    width: 100%;
+    height: 291px;
+    white-space: normal;
+}
+
+.mdl-data-table td {
+    height: auto;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.mdl-data-table__cell th {
+   text-align: left;
+}
+
+.mdl-data-table tbody tr {
+    height : auto;
+}
+
+.mdl-card__actions {
+    width: 100%;
+    height: 45px;
+    padding: 5px;
+}
+
+.mdl-cell {
+    padding: 0px;
+}
+
+td.mdl-data-table__cell--non-numeric {
+    max-width: 300px;
+    width: 100%;
+    overflow: hidden;
+}

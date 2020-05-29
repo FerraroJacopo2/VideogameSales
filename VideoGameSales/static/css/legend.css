@@ -1,0 +1,15 @@
+.legendario-div{
+    width: 100%;
+    height: fit-content;
+}
+
+.mdl-menu__container {
+    width: 250px;
+}
+
+.containerl {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
